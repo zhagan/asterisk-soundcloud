@@ -12,4 +12,4 @@ Tested with https://www.zoiper.com/ free SIP app
 
 All prompts (wavs) needed to deploy this system are included.
 
-I had deplyed this for a few years but eventually I let my registration expire, hopefully someone will find this useful some day
+I had deployed this for a few years starting in 2013 but eventually I let my registration expire, hopefully someone will find this useful some day
